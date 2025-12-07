@@ -1,0 +1,35 @@
+celoht-triple-pillar-core/
+│
+├── README.md
+├── WHITEPAPER.md
+├── GOVERNANCE.md
+├── ROADMAP.md
+├── PRESS-KIT.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── SECURITY.md
+├── PRIVACY-POLICY.md
+├── RISK-MANAGEMENT.md
+├── IMPACT-DASHBOARD.md
+├── CHANGELOG.md
+│
+├── /docs
+│   ├── education.md
+│   ├── agents.md
+│   ├── reforestation.md
+│   ├── curriculum-framework.md
+│   ├── agent-compliance-standards.md
+│   ├── reforestation-protocol.md
+│   ├── data-standards.md
+│   └── sustainability-model.md
+│
+├── /infrastructure
+│   ├── ci-cd.yml
+│   ├── security-guidelines.md
+│   ├── branching-strategy.md
+│   └── versioning-standard.md
+│
+└── /branding
+    ├── logo.svg
+    ├── usage-guidelines.md
+    └── colors.md
