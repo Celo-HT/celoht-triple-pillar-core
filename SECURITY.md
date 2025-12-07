@@ -1,0 +1,3 @@
+- Multisig treasury
+- Key rotation policy
+- Fraud prevention
