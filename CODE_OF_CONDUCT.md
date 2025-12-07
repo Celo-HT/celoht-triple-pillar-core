@@ -1,0 +1,1 @@
+Respect, transparency, non-discrimination, ethical behavior, community-first.
