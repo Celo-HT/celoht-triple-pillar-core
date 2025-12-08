@@ -1,0 +1,3 @@
+- No selling data
+- No collecting unnecessary info
+- User control rights
