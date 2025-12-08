@@ -1,0 +1,3 @@
+- Fork → Branch → PR
+- Commit naming standard
+- Mandatory review
