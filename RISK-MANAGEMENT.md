@@ -1,0 +1,3 @@
+- Operational risks
+- Financial risks
+- Ecosystem dependencies
